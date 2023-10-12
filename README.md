@@ -1,8 +1,8 @@
-Use the convert_csv.py and new.py files to create a translated header and body csv.
-Run the merge.py to merge and create the final csv.
-The final csv contains Village name, Gram Panchayat 
+Use the convert_csv.py and new.py files to create a translated header and body csv.<br />
+Run the merge.py to merge and create the final csv.<br />
+The final csv contains Village name, Gram Panchayat <br />
 Name, Block Name, part number, names, father/husband name, age, 
-household number
+household number<br />
 
 Example voter rolls:
 
