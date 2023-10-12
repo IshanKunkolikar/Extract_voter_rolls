@@ -5,6 +5,8 @@ Example voter rolls:
 
 First page:
 ![image](https://github.com/IshanKunkolikar/Extract_voter_rolls/assets/42310379/44e2e693-dc34-4ea8-82bd-fbc9e0ca0506)
+![image](https://github.com/IshanKunkolikar/Extract_voter_rolls/assets/42310379/98d1a3b2-4b4a-4b7c-bf56-bd2fe65a8cc6)
+
 
 Remaining pages:
 ![image](https://github.com/IshanKunkolikar/Extract_voter_rolls/assets/42310379/5c41b6f8-6856-44d1-ad0b-011327c10229)
