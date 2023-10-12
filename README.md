@@ -15,3 +15,6 @@ The voter roll:
 
 ![image](https://github.com/IshanKunkolikar/Extract_voter_rolls/assets/42310379/b35f63aa-2861-489a-93ad-5e08185b9693)
 
+Result:
+
+![image](https://github.com/IshanKunkolikar/Extract_voter_rolls/assets/42310379/4a8f9350-7f40-401e-8f93-b1f62374ba99)
